@@ -3,3 +3,9 @@ This is gonna be the first line of text for the learninggitproject.
 This is the second line of text.
 
 This is the third line of text.
+
+Let’s start getting more creative with the things we add here.
+
+Like adding several lines at once.
+
+How crazy is that!! 
