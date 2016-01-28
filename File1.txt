@@ -4,4 +4,12 @@ This is the second line of text.
 
 This is the third line of text.
 
+<<<<<<< HEAD
 This is the fourth line of text. Basic.
+=======
+Let’s start getting more creative with the things we add here.
+
+Like adding several lines at once.
+
+How crazy is that!! 
+>>>>>>> origin/master
